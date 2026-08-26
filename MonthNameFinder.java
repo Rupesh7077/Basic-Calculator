@@ -1,5 +1,5 @@
 import java.util.*;
-public class MonthNameFinder {
+public class MonthNameFinder{
     public static void main(String[] args){
         Scanner input=new Scanner(System.in);
         System.out.println("Enter number of month:");
